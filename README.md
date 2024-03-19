@@ -40,11 +40,11 @@ The multi-phased analysis of Addition Financial Credit Union's data illuminated 
 References include works by Kleinbaum et al., McKinney, and various data sources such as World Population Review, Wikipedia, and official state and county resources, underlining the extensive and diverse data utilized in this analysis.
 
 # External Libraries Used
-statsmodels: For statistical modeling and hypothesis testing.
-plotly.express: For interactive and visually appealing charts and graphs.
-mpl_toolkits.mplot3d: For basic 3D plotting capabilities.
-Requests: For sending HTTP requests and interacting with web services.
-Geopandas: For handling geospatial data.
+- statsmodels: For statistical modeling and hypothesis testing.
+- plotly.express: For interactive and visually appealing charts and graphs.
+- mpl_toolkits.mplot3d: For basic 3D plotting capabilities.
+- Requests: For sending HTTP requests and interacting with web services.
+- Geopandas: For handling geospatial data.
 
 
 
