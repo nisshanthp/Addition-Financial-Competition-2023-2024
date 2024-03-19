@@ -6,7 +6,7 @@ Team Members:
 - Nathan Collazo
 - Jovany Perez
 
-This README documents the comprehensive analysis conducted by Jovany Perez, Nisshanth Perumalsamy, Daniel Wilson, and Nathan Collazo from the University of Central Florida focusing on Addition Financial Credit Union's data to recommend optimal locations for new branches.
+This README documents the comprehensive analysis conducted from the University of Central Florida focusing on Addition Financial Credit Union's data to recommend optimal locations for new branches.
 
 # Abstract
 This study analyzes Addition Financial Credit Union's branch and member level data from January 2022 to July 2023, focusing on identifying the best location for a new branch. Using advanced analytical techniques such as PCA, Random Forest Regression/Classification, K-Means clustering, IDW, and KNN, we examined transaction counts, member activities, and branch performances. Our findings suggest Orange County, with Ocoee as the ideal city for a new branch, leveraging internal and external data sources to inform our recommendation.
