@@ -23,10 +23,10 @@ The analysis utilized Windows 11 and macOS machines equipped with at least 16GB 
 # Methodology Overview
 Our analysis proceeded in four phases, each building upon the insights and methodologies of the previous to refine our understanding and recommendations:
 
-  Phase 1: Data exploration and preprocessing, including PCA for pattern identification.
-  Phase 2: Analysis of external data with Random Forest and KNN to predict optimal counties for new branches.
-  Phase 3: Time-series analysis and Random Forest classification of internal data to distinguish high-performing                 branches and areas.
-  Phase 4: Focused analysis on Orange County using advanced spatial modeling techniques to identify Ocoee as the                 prime location for expansion.
+  - Phase 1: Data exploration and preprocessing, including PCA for pattern identification.
+  - Phase 2: Analysis of external data with Random Forest and KNN to predict optimal counties for new branches.
+  - Phase 3: Time-series analysis and Random Forest classification of internal data to distinguish high-performing                 branches and areas.
+  - Phase 4: Focused analysis on Orange County using advanced spatial modeling techniques to identify Ocoee as the                 prime location for expansion.
   
 # Key Findings
 - Orange County and St.Johns County emerged as a prime candidate for new branch locations, with a detailed assessment supporting Ocoee as the ideal city.
