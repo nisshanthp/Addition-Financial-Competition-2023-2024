@@ -1,10 +1,10 @@
 # Addition-Financial-Competition-2023-2024
 
 Team Members:
-Nisshanth Perumalsamy
-Daniel Wilson
-Nathan Collazo
-Jovany Perez
+- Nisshanth Perumalsamy
+- Daniel Wilson
+- Nathan Collazo
+- Jovany Perez
 
 This README documents the comprehensive analysis conducted by Jovany Perez, Nisshanth Perumalsamy, Daniel Wilson, and Nathan Collazo from the University of Central Florida under the course STA 4724, Big Data Analytics, instructed by Dr. HanQin Cai, focusing on Addition Financial Credit Union's data to recommend optimal locations for new branches.
 
